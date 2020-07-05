@@ -1,0 +1,60 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background: url(7c80bdf338e6189d65319f1f0928bb8b.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    background-position: center;
+}
+.signup{
+    width: 320px;
+    height: 550px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    position: absolute;
+    transform: translate(50px,50px);
+    box-sizing: border-box;
+    padding: 10px 30px;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+p{ 
+    font-weight: bold;
+}
+input{
+    width: 100%;
+}
+.rawda{
+    border: none;
+    border-bottom: 1px solid black;
+    background: transparent;
+    font-size: 16px;
+    outline: none;
+    color: white;
+}
+.elhady{
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background: deepskyblue;
+    height: 40px;
+    outline: none;
+    font-size: 20px;
+}
+.elhady:hover{
+    background: blue;
+    cursor: pointer;
+}
+a{
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+}
+a:hover{
+    color: blue;
+}
+
